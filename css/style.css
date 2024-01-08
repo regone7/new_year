@@ -1,0 +1,499 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+/* new year party page */
+.n-y-p-cel {
+    width: 1000px;
+    height: 600px;
+    background-image: url(/images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 50px 140px 100px 110px;
+    border-radius: 10px;
+
+
+
+}
+
+.ha {
+    color: #f8fc0a;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 22px;
+    font-weight: 300;
+
+}
+
+.ny {
+    color: #b2d220;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 62px;
+    font-weight: 900;
+    line-height: 75px;
+
+}
+
+.land1 {
+    padding: 149px 299px 177px;
+}
+
+/* catagory & offer page */
+
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+
+.deal {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.cat-text {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.happy-new {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-top: 35px;
+    margin-bottom: 120px;
+
+}
+
+/* mindight party page */
+
+.party-sec {
+    width: 1000px;
+    height: 600px;
+    background-image: url(/images/vectorr.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 50px 140px 100px 110px;
+    border-radius: 10px;
+}
+
+.midnight {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 48px;
+
+
+}
+
+.party-text {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.join {
+    color: #fff7f7;
+    font-family: Inter;
+    text-transform: uppercase;
+    margin-top: 45px;
+    background-color: #070211;
+    margin-left: 15px;
+}
+
+.join:hover {
+    background-color: #d00a8b;
+    transform: scale(1.5);
+}
+
+
+.banner {
+    display: flex;
+    padding: 30px 30px 30px 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-pic {
+    padding: 67px 61px 85px 52px;
+
+}
+
+/*  place page*/
+.hotel-info {
+    background-color: #e8cce2;
+    width: 1005px;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+.yr-ho {
+    color: #070211;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 35px;
+
+}
+
+.yr-ho span {
+    color: #F00;
+}
+
+.btn-yr-jn {
+    margin: 45px 450px;
+    border-radius: 8px;
+    background: rgb(155, 23, 170);
+    padding: 10px 20px;
+    border: 0;
+}
+
+.btn-yr-jn:hover {
+    background: #931053;
+    color: white;
+}
+
+/* coming soon page */
+.offer-coming {
+    display: flex;
+    margin: 0px 100px 70px 110px;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cs1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 15px;
+}
+
+#cs6 {
+    padding: 10px 0px 10px 0px;
+    font-family: Inter;
+}
+
+#cs7 {
+    font-family: Inter;
+    font-size: 15px;
+    line-height: 16px;
+    padding-right: 65px;
+
+}
+
+.cs2 {
+
+    border: 2px solid;
+    border-radius: 65%;
+    border: 7px solid #F00;
+    padding: 3px;
+    margin: 5px;
+    margin-right: 90px;
+
+
+
+}
+
+.cs2>img {
+    padding: 30px;
+}
+
+#cs3 {
+    color: #F00;
+}
+
+#cs4 {
+    padding: 10px 0px 10px 0px;
+    font-family: Inter;
+}
+
+.cs5 {
+    width: 100px;
+    height: 100px;
+}
+
+/* hoildays sail off page */
+.sall-head {
+    margin: 0px 100px 70px 110px;
+}
+
+.sall1 {
+    margin-left: 400px;
+}
+
+.sall3 {
+    margin-left: 330px;
+    font-size: 42px;
+}
+
+.sall2 {
+    color: #F00;
+}
+
+.sall4 {
+    text-align: center;
+    margin: 10px 150px 30px 150px;
+}
+
+.sall-bg {
+    display: flex;
+}
+
+.sall5 {
+    width: 450px;
+    height: 380px;
+    position: relative;
+    margin: 120px 0px -120px 40px;
+}
+
+.sall6 {
+    width: 250px;
+    height: 250px;
+    margin-top: 120px;
+    position: relative;
+    margin-left: 90px;
+    margin-right: -90px;
+}
+
+.sall7 {
+    width: 310px;
+    height: 310px;
+    margin-top: 80px;
+    margin-left: -37px;
+    
+
+}
+
+.sall8 {
+    width: 1010px;
+    height: 150px;
+    border-radius: 16px 0px 16px 16px;
+    margin-right: 100px;
+}
+
+/* main section */
+/* gift page */
+.m-gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 110px;
+
+}
+
+.m-head {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 110px;
+
+}
+
+.m-text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 110px;
+    margin-right: 300px;
+}
+
+.m-marg-pic {
+    margin-left: 110px;
+    margin-right: 100px;
+}
+
+.gift-pic1 {
+    width: 324px;
+    height: 350px;
+    display: flex;
+    border-radius: 12px;
+    gap: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.gift-pic2 {
+    width: 324px;
+    height: 350px;
+    display: flex;
+    border-radius: 12px;
+    gap: 10px;
+    margin-bottom: 75px;
+
+}
+
+.hov:hover {
+    transform: scale(1.3);
+}
+
+/* letter page */
+.marg-letter {
+    margin-left: 110px;
+    margin-right: 100px;
+    background-color: antiquewhite;
+    height: 450px;
+    margin-bottom: 70px;
+    border-radius: 10px;
+}
+
+.smspic {
+    width: 100px;
+    height: 100px;
+    margin: 40px 450px 20px;
+}
+
+.letter-head {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 15px;
+
+}
+
+.letter-text {
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 25px;
+}
+
+.inp-let {
+    width: 348px;
+    height: 52px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    border-radius: 50px;
+    border: 0;
+
+}
+
+.let-but {
+    color: #fcf8f8;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    width: 148px;
+    height: 52px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    margin-left: -25px;
+    border: 0;
+
+}
+
+.btn-letter-sub {
+    display: flex;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+
+/*  footer page */
+footer {
+    background-color: rgb(0, 0, 0);
+
+    height: 400px;
+}
+
+.footer-head {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+.web-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+.call-div {
+    display: flex;
+
+}
+
+.web-div {
+    display: flex;
+}
+
+.foo-mar1 {
+    padding: 80px 0px 40px 150px;
+}
+
+.foo-mar2 {
+    padding: 80px 150px 40px 0px;
+}
+
+
+hr {
+    color: #FFF;
+    margin-left: 110px;
+    margin-right: 100px;
+    height: 0.10px;
+}
+
+.soc-pic {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    margin-left: 555px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.soc-pic img {
+    margin-right: 15px;
+}
+
+.foot-last {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.foo-mar3 {
+    margin: 40px 0px 80px 0px;
+}
+
+.foo-mar4 {
+    margin: 40px 0px 80px 0px;
+}
