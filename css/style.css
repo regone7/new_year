@@ -7,7 +7,7 @@
 .n-y-p-cel {
     width: 1000px;
     height: 600px;
-    background-image: url(/images/banner.png);
+    background-image: url("../images/banner.png");
     background-repeat: no-repeat;
     background-position: center;
     margin: 50px 140px 100px 110px;
@@ -83,7 +83,7 @@
 .party-sec {
     width: 1000px;
     height: 600px;
-    background-image: url(/images/vectorr.png);
+    background-image: url("../images/vectorr.png");
     background-repeat: no-repeat;
     background-position: center center;
     margin: 50px 140px 100px 110px;
